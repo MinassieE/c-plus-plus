@@ -1,11 +1,20 @@
+# Snake game in c++
+
+![screenshoot of the project](./screenshoot/snake.png)
 hello, this is a c++ project.
 i do this for a school assingment when i was learning programming fundamentals in c++.
 
 it is a console app, but it used the boring black and white console display as a gui to run the game.
 
-NB: this program will work on windows, because i used a window specific header "conio.h" and command to clear the window "system("cls").
+
+## NB: 
+this program will work on windows, because i used a window specific header "conio.h" and command to clear the window "system("cls").
 if you manage to change this two things to whatever OS you are using every thing should be fine. i guess :)
 
+## instruction
+this program use a, s, d, w for controling the snake movement.
+
+## discription
 this program uses 4 functions 
 1. setup()
 2. draw()
